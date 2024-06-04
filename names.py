@@ -1,6 +1,6 @@
 def convert_to_lua(input_file, output_file):
     with open(input_file, 'r') as f_in, open(output_file, 'w') as f_out:
-        f_out.write('Citizen.CreateThread(function()\n')
+        f_out.write('CreateThread(function()\n')
         for line in f_in:
             stripped_line = line.strip()
             if stripped_line:
