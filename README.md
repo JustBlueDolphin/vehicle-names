@@ -17,3 +17,8 @@ https://www.python.org/downloads/
 
 Add to the fxmanifest of your car of choice:
 ` client_script 'vehicle_names.lua' `
+
+# Credits 
+This tool was not made by me, been allowed to reupload it
+
+Tool was made by: https://github.com/ook3D
