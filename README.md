@@ -14,7 +14,6 @@ https://www.python.org/downloads/
 - Move global.txt to Vehicle-names folder with the tool inside
 - Run the tool
 - Copy output to your selected car
-- Rename it to `vehicle_names`
 
 Add to the fxmanifest of your car of choice:
 ` client_script 'vehicle_names.lua' `

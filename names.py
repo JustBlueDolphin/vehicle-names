@@ -10,4 +10,4 @@ def convert_to_lua(input_file, output_file):
         f_out.write('end)\n')
 
 
-convert_to_lua('global.txt', 'output.lua')
+convert_to_lua('global.txt', 'vehicle_names.lua')
