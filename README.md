@@ -2,7 +2,7 @@
 global.txt to vehicle_names.lua
 
 
-#dependencies
+# dependencies
 https://www.python.org/downloads/
 
 - Open your selected cars dlc.rpf in OpenIV
