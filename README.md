@@ -11,6 +11,7 @@ https://www.python.org/downloads/
     - `dlc.rpf\x64\data\lang` 
 - Export the global.gxt2 to txt
 - It should be named global.txt
+- Move global.txt to Vehicle-names folder with the tool inside
 - Run the tool
 - Copy output to your selected car
 - Rename it to `vehicle_names`
