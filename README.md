@@ -5,6 +5,7 @@ global.txt to vehicle_names.lua
 # dependencies
 https://www.python.org/downloads/
 
+# How to
 - Open your selected cars dlc.rpf in OpenIV
 - Find americandlc.RPF
     - `dlc.rpf\x64\data\lang` 
