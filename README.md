@@ -12,5 +12,4 @@ global.txt to vehicle_names.lua
 - Rename it to `vehicle_names`
 
 Add to the fxmanifest of your car of choice:
->>>>>>> main
-`client_script 'vehicle_names.lua'`
+` client_script 'vehicle_names.lua' `
