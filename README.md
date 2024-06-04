@@ -2,7 +2,6 @@
 global.txt to vehicle_names.lua
 
 
-<<<<<<< JustBlueDolphin-patch-1
 - Open your selected cars dlc.rpf in OpenIV
 - Find americandlc.RPF
     - `dlc.rpf\x64\data\lang` 
