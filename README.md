@@ -25,7 +25,7 @@ This tool was not made by me, been allowed to reupload it
 Tool was made by: https://github.com/ook3D
 
 
-![image](https://i.imgur.com/rl0zdOk.png)
+![image](https://i.imgur.com/kKAXy4l.png)
 
 
 To
