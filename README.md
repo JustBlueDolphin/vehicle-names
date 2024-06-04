@@ -1,6 +1,6 @@
 # Vehicle-names
-global.txt to vehicle_names.lua
-
+Global.txt to vehicle_names.lua
+Gets all modkits names and put them in to the Fivem Format
 
 # Dependencies
 https://www.python.org/downloads/
