@@ -1,8 +1,8 @@
-# vehicle-names
+# Vehicle-names
 global.txt to vehicle_names.lua
 
 
-# dependencies
+# Dependencies
 https://www.python.org/downloads/
 
 # How to
