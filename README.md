@@ -3,13 +3,15 @@ global.txt to vehicle_names.lua
 
 How to convert
 
-open iv 
-find americandlc.rpf 
-export the global.gxt2 to txt
-rename it to `input`
-copy output to your selected car 
-rename it to `vehicle_names`
+- Open your selected cars dlc.rpf in OpenIV
+- Find americandlc.RPF
+    - `dlc.rpf\x64\data\lang` 
+- Export the global.gxt2 to txt
+- It should be named global global.txt
+- Run the tool
+- Copy output to your selected car
+- Rename it to `vehicle_names`
 
-add to the fxmanifest of your car of choice:
+Add to the fxmanifest of your car of choice:
 `client_script 'vehicle_names.lua'`
 
